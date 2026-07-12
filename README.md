@@ -51,4 +51,10 @@
 
 **CSV/Excel —** source data layer, structured for relational joins (EmployeeNumber as key)
 
+# 👩‍💻 Author
+
+**Sarkodie Christiana Gyemfua**
+
+Accounting Graduate | Data Analyst
+
 
